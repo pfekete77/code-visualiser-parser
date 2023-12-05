@@ -1,0 +1,7 @@
+C:\Users\4221\source\repos\CodeIntegratorPrototype\SampleToAnalyze\SampleToAnalyze\bin\Debug\SampleToAnalyze.exe.config
+C:\Users\4221\source\repos\CodeIntegratorPrototype\SampleToAnalyze\SampleToAnalyze\bin\Debug\SampleToAnalyze.exe
+C:\Users\4221\source\repos\CodeIntegratorPrototype\SampleToAnalyze\SampleToAnalyze\bin\Debug\SampleToAnalyze.pdb
+C:\Users\4221\source\repos\CodeIntegratorPrototype\SampleToAnalyze\SampleToAnalyze\obj\Debug\SampleToAnalyze.csproj.AssemblyReference.cache
+C:\Users\4221\source\repos\CodeIntegratorPrototype\SampleToAnalyze\SampleToAnalyze\obj\Debug\SampleToAnalyze.csproj.CoreCompileInputs.cache
+C:\Users\4221\source\repos\CodeIntegratorPrototype\SampleToAnalyze\SampleToAnalyze\obj\Debug\SampleToAnalyze.exe
+C:\Users\4221\source\repos\CodeIntegratorPrototype\SampleToAnalyze\SampleToAnalyze\obj\Debug\SampleToAnalyze.pdb
